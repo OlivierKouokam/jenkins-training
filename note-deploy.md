@@ -2,4 +2,4 @@
 
 chmod +x apply-jenkins.sh
 
-sh ./apply-jenkins.sh
+sh ./jenkins-deploy.sh
