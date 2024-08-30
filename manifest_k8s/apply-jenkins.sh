@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Make sure jenkins data folder exit
+mkdir -p $HOME/data/jenkins-pv
+
 # Get the home directory
 HOME_PATH=$HOME
 
